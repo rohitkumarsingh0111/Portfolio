@@ -1,7 +1,7 @@
 import project1_img from '../assets/Project1.jpg'
 import project2_img from '../assets/Project2.jpg'
-import project3_img from '../assets/project_3.svg'
-import project4_img from '../assets/project_4.svg'
+import project3_img from '../assets/project3.png'
+import project4_img from '../assets/Project4.png'
 import project5_img from '../assets/project_5.svg'
 import project6_img from '../assets/project_6.svg'
 
@@ -28,7 +28,7 @@ const mywork_data = [
         w_no:4,
         w_name:"Web design",
         w_img:project4_img,
-        w_link:"https://example.com/project4"
+        w_link:"https://chatapp-vert-pi.vercel.app"
     },
     {
         w_no:5,
